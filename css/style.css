@@ -93,4 +93,7 @@ body{
         height: 7vh;
         width: 7vh;
     }
+    #extra{
+        width: 14vh;
+    }
 }
