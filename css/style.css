@@ -87,4 +87,10 @@ body{
     .container{
         width: 70%;
     }
+    .buttons div button{
+        padding: 2px;
+        font-size: large;
+        height: 7vh;
+        width: 7vh;
+    }
 }
